@@ -3,7 +3,6 @@ import streamlit as st
 
 st.title("Aplikasi Konversi Mata Uang ASEAN")
 
-# Daftar mata uang negara-negara ASEAN
 asean_currencies = {
     'Indonesia (IDR)': 'IDR',
     'Malaysia (MYR)': 'MYR',
